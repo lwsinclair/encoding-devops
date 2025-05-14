@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/patrickkalkman-encoding-devops-badge.png)](https://mseep.ai/app/patrickkalkman-encoding-devops)
+
 # 🎬 Encoding DevOps MCP Server: AI-Powered Video Encoding Assistant
 
 [![GitHub stars](https://img.shields.io/github/stars/PatrickKalkman/encoding-devops)](https://github.com/PatrickKalkman/encoding-devops/stargazers)
